@@ -175,7 +175,7 @@ body {
   line-height: 1.6;
   font-weight: 400;
   font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #222;
+  color: #ff0000;
   margin-left: 0;
   margin-top: 0;
   width: 100%; }
@@ -261,7 +261,7 @@ p {
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  color: #1EAEDB;
+  color: #0000ff;
   text-decoration: none; }
 
 a:hover {
@@ -792,7 +792,7 @@ body {
   width: 100%;
   /* Set the fixed height of the footer here */
   height: 100px;
-  background-color: #f5f5f5; }
+  background-color: #ff0000; }
   .footer .footer-column {
     margin: 20px 0;
     font-size: 11px;
